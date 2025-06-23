@@ -21,7 +21,7 @@
   * 프로그래밍 러스트 - 빠르고 안전한 시스템 개발
   * 한 줄 한 줄 짜면서 익히는 러스트 프로그래밍 RUST IN ACTION
   * 만들면서 배우는 러스트 프로그래밍
-* [Discover HaxeFlixel | The Book](https://github.com/ghtalpo/discover_haxeflixel)
+* [Discover HaxeFlixel The Book](https://github.com/ghtalpo/discover_haxeflixel)
 * [Godot from Zero to Proficiency](https://github.com/ghtalpo/resources_for_godot_from_zero_to_proficiency)
 
 ### rtk2
