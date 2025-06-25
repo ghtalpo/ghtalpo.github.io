@@ -11,7 +11,7 @@
 ### 책
 *  [한 시간 만에 게임 만들기(cpp->rust)](https://github.com/ghtalpo/oneHourGame-rs)
 *  [게임 매니악스 슈팅 게임 알고리즘(cpp->godot WIP)](https://github.com/ghtalpo/shooting_game_algorithm_maniax-gd)
-* 모음 [coding_game_with_python](https://github.com/ghtalpo/coding_game_with_python)
+* 모음 [coding_game_with_python](https://github.com/ghtalpo/game_programming_examples)
   * 게임으로 배우는 파이썬(python + godot)
   * 파이썬으로 배우는 게임 개발 입문편(python)
   * 파이썬으로 배우는 게임 개발 실전편(python + ceramic + ebiten + haxeflixel)
